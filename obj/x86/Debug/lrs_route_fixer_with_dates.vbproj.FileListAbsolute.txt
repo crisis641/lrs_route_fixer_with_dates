@@ -1,0 +1,16 @@
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\bin\x86\Debug\lrs_route_fixer_with_dates.exe
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\bin\x86\Debug\lrs_route_fixer_with_dates.pdb
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\bin\x86\Debug\lrs_route_fixer_with_dates.xml
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.bad_route_links.resources
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.Form1.resources
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.gapdialog.resources
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.exe
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.xml
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\lrs_route_fixer_with_dates.pdb
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\bin\x86\Debug\System.Data.OracleClient.dll
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\bin\x86\Debug\lrs_route_fixer_with_dates.exe.config
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mclemen\Documents\Visual Studio Projects\lrs_route_fixer_with_dates\obj\x86\Debug\ResGen.write.1.tlog
